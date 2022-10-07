@@ -1,0 +1,11 @@
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\bin\Debug\ExamenIntento.exe.config
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\bin\Debug\ExamenIntento.exe
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\bin\Debug\ExamenIntento.pdb
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.csproj.AssemblyReference.cache
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.Form1.resources
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.Properties.Resources.resources
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.csproj.GenerateResource.cache
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.csproj.CoreCompileInputs.cache
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.exe
+C:\Users\Onna\source\repos\ExamenIntento\ExamenIntento\obj\Debug\ExamenIntento.pdb
