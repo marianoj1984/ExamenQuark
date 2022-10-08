@@ -128,7 +128,7 @@
             // lblCod_id
             // 
             this.lblCod_id.AutoSize = true;
-            this.lblCod_id.Location = new System.Drawing.Point(95, 10);
+            this.lblCod_id.Location = new System.Drawing.Point(193, 10);
             this.lblCod_id.Name = "lblCod_id";
             this.lblCod_id.Size = new System.Drawing.Size(38, 13);
             this.lblCod_id.TabIndex = 1;
@@ -325,6 +325,7 @@
             this.txtCantidadSolicitada.Name = "txtCantidadSolicitada";
             this.txtCantidadSolicitada.Size = new System.Drawing.Size(44, 20);
             this.txtCantidadSolicitada.TabIndex = 3;
+            this.txtCantidadSolicitada.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCantidadSolicitada_KeyPress);
             // 
             // lblCantidad
             // 

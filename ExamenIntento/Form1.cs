@@ -583,5 +583,10 @@ namespace ExamenIntento
 
             }
         }
+
+        private void txtCantidadSolicitada_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            control1.soloNumeros(e);
+        }
     }
 }
